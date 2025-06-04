@@ -14,7 +14,7 @@
   <h3 align="center">A Car Showcase Website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.instagram.com/aldrchdapaz" target="_blank"><b>Aldrich Daffa Zalfansyah</b></a> Instagram. Chat the will be family!
+     Build this project step by step with our detailed tutorial on <a href="https://www.instagram.com/dapaaaa_" target="_blank"><b>Aldrich Daffa Zalfansyah</b></a> Instagram. Chat the will be family!
     </div>
 </div>
 
